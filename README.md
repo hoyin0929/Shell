@@ -1,8 +1,8 @@
 # CSC 415 - Project 3 - My Shell
 
-## Student Name: Name here
+## Student Name: Ho Yin Mak
 
-## Student ID: ID Here
+## Student ID: 913340927
 
 ## Build Instructions
 
