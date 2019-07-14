@@ -1,7 +1,7 @@
 /****************************************************************
- * Name        :                                                *
+ * Name        :  Ho Yin Mak                                    *
  * Class       :  CSC 415                                       *
- * Date        :                                                *
+ * Date        :  July 14, 2019                                 *
  * Description :  Writting a simple bash shell program          *
  *                that will execute simple commands. The main   *
  *                goal of the assignment is working with        *
@@ -20,7 +20,7 @@
 /* CANNOT BE CHANGED */
 #define BUFFERSIZE 256
 /* --------------------*/
-#define PROMPT "myShell >> "
+#define PROMPT "myShell"
 #define PROMPTSIZE sizeof(PROMPT)
 
 #define ARGVMAX 64
