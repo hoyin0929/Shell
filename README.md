@@ -4,10 +4,8 @@
 
 ## Student ID: 913340927
 
-## Build Instructions
-make
+## Build Instructions: make
 
-## Run Instructions
-./myshell
+## Run Instructions: ./myshell
 
 ## List Extra Credit comepleted (if not attempted leave blank)
