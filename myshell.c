@@ -25,7 +25,7 @@
 
 #define ARGVMAX 64
 #define PIPECNTMAX 10
-#define NAME "Tsun Ming Lee"
+#define NAME "Ho Yin Mak"
 #define DELIMITER " \t\r\n\a"
 
 
