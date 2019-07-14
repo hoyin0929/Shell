@@ -9,3 +9,4 @@
 ## Run Instructions: ./myshell
 
 ## List Extra Credit comepleted (if not attempted leave blank)
+The directory is shown on the promt
