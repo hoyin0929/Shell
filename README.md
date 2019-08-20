@@ -1,12 +1,7 @@
-# CSC 415 - Project 3 - My Shell
-
-## Student Name: Ho Yin Mak
-
-## Student ID: 913340927
+# Project : My Shell
 
 ## Build Instructions: make
 
 ## Run Instructions: ./myshell
 
-## List Extra Credit comepleted (if not attempted leave blank)
-The directory is shown on the promt
+## Introdution
